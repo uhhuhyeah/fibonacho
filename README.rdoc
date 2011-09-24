@@ -33,7 +33,9 @@ This gem adds the methods `closest_fibonacci` methods to Ruby's `Integer` class.
 Rationale
 ---------
 
-TODO...
+Given the requirement that `closest_fibonacci` be a method callable on an integer, this gem will add it's method to Ruby's Fixnum class. Version 0.1 of this gem uses a simple loop to construct a series of Fibonacci numbers and breaks when it reaches a number that is equal to or greater than the number we're comparing it to. We then return the last number in the loop.
+
+A more production suitable gem would probably employ a technique more memory efficient than this.
 
 
 == Copyright
