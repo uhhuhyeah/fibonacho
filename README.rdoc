@@ -37,6 +37,13 @@ Given the requirement that `closest_fibonacci` be a method callable on an intege
 
 A more production suitable gem would probably employ a technique more memory efficient than this.
 
+Notes
+-----
+
+Written with Ruby 1.9.2 (p290).
+
+2 tests, 8 assertions, 0 failures, 0 errors, 0 skips.
+
 
 == Copyright
 
