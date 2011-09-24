@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "fibonacho.gemspec",
     "lib/fibonacho.rb",
     "test/helper.rb",
     "test/test_fibonacho.rb"
