@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestFibonacho < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  should "add the method 'closest_fibonacci' to Fixnum instances" do
+     assert 5.respond_to?('closest_fibonacci'), 'Fixnum does not respond to is_a_fibonacci_number'
   end
 end
