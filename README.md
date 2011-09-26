@@ -3,7 +3,7 @@ Fibonacho
 
 Fibonacho is a gem for finding the largest integer value from the [Fibonacci Sequence](http://en.wikipedia.org/wiki/Fibonacci_sequence) smaller than the given integer because you never know when that will come in handy... 
 
-Not affiliated with nachos, but you're welcome to eat some while using this gem.
+Not affiliated with nachos, but you're encouraged to eat some while using this gem.
 
 Installation
 ------------
